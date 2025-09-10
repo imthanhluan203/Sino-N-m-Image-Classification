@@ -61,6 +61,6 @@ pip install torch transformers opencv-python numpy matplotlib
 ```
 
 ## Results
-- The model achieves high accuracy on the test set (detailed results in `results/` directory).
+- The model achieves high accuracy on the test set (detailed model save in `models/best_model` directory).
 - Visualizations of model predictions and attention maps are available for analysis.
 
